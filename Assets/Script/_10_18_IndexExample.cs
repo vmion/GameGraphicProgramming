@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class _10_19_IndexExample : MonoBehaviour
+public class _10_18_IndexExample : MonoBehaviour
 {
     int frame;
     float elapsed;
